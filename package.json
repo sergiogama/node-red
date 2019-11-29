@@ -77,7 +77,7 @@
         "node-red-node-openwhisk":"0.x",
         "node-red-dashboard":"2.x",
         "node-red-contrib-web-worldmap":"2.x",
-        "node-red-node-twitter":"1.x
+        "node-red-node-twitter":"1.x"
     },
     "optionalDependencies": {
         "bcrypt": "3.0.6"
