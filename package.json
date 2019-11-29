@@ -73,7 +73,8 @@
         "node-red-node-watson":"0.7.x",
         "node-red-contrib-watson-token-generator":"0.x",
         "node-red-contrib-scx-ibmiotapp":"0.x",
-        "node-red-contrib-watson-machine-learning":"0.x"
+        "node-red-contrib-watson-machine-learning":"0.x",
+        "node-red-node-openwhisk":"0.x"
     },
     "optionalDependencies": {
         "bcrypt": "3.0.6"
